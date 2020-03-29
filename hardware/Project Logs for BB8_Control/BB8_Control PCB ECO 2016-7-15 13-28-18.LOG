@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=P1.0 Pin=P3-2
+Removed Pin From Net: NetName=P1.1 Pin=P3-3
+Removed Pin From Net: NetName=P1.2 Pin=P3-4
+Removed Pin From Net: NetName=P1.3 Pin=P3-5
+Removed Pin From Net: NetName=P1.4 Pin=P3-6
+Removed Pin From Net: NetName=P1.5 Pin=P3-7
+Removed Pin From Net: NetName=P2.0 Pin=P3-8
+Removed Pin From Net: NetName=P2.1 Pin=P3-9
+Removed Pin From Net: NetName=P2.3 Pin=P6-1
+Removed Pin From Net: NetName=P2.5 Pin=P6-3
+Removed Pin From Net: NetName=P1.6 Pin=P6-4
+Removed Pin From Net: NetName=P1.7 Pin=P6-5
+Removed Pin From Net: NetName=RESET Pin=P6-6
+Removed Pin From Net: NetName=TEST Pin=P6-7
+Removed Pin From Net: NetName=P2.7 Pin=P6-8
+Removed Pin From Net: NetName=P2.6 Pin=P6-9
+Change Component DesignItemId : Designator=DS2 Old DesignItemId=LE New DesignItemId=LED2
+Change Component DesignItemId : Designator=DS3 Old DesignItemId=LE New DesignItemId=LED2
+Change Component Footprint: Designator=C2 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=C4 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=C6 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=C8 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=C9 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=C10 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=C11 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=C12 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=C13 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=C14 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=C15 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=R1 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=R2 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=R3 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=R4 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=R5 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=R6 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=R7 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=R8 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=R9 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=R10 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=R11 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=R12 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=R13 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=R14 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=R15 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=R16 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=R17 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=R18 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=R19 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=R20 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=R21 Old Footprint=0805 New Footprint=0603P
+Change Component Footprint: Designator=C5 Old Footprint=1206 New Footprint=0603P
+Change Component Footprint: Designator=C7 Old Footprint=1206 New Footprint=0603P
+Change Component Footprint: Designator=D1 Old Footprint=DIODE_3*5.3 New Footprint=DIODE_SOP
+Change Component Description : Designator=DS1 Old Description=Typical RED, GREE New Description=Typical RED, GREEN, YELLOW, AMBER GaAs LED
+Change Component Description : Designator=DS2 Old Description=Typical RED, GREE New Description=Typical RED, GREEN, YELLOW, AMBER GaAs LED
+Change Component Description : Designator=DS3 Old Description=Typical RED, GREE New Description=Typical RED, GREEN, YELLOW, AMBER GaAs LED
+Change Component Library : Designator=C1 Old Library=WarShip V3 STM321 New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C3 Old Library=WarShip V3 STM321 New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=DC_IN1 Old Library=WarShip V3 STM321 New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=RESET1 Old Library=WarShip V3 STM321 New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=RS1 Old Library=WarShip V3 STM321 New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=TRIG1 Old Library=WarShip V3 STM321 New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=K1 Old Library=WarShip V3 STM32103 New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Added Room: Name=MainControl
+Added Room: Name=Power

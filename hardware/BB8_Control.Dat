@@ -1,0 +1,26 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~BB8_Control.PrjPCB|ReportField=ProjectFullPath~C:\Users\ZINK\Desktop\BB8_Control_PCB\BB8_Control.PrjPCB|ReportField=Title~Bill of Materials For Project [BB8_Control.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~59|ReportField=ReportTime~15:20:54|ReportField=ReportDate~2016/7/18|ReportField=ReportDateTime~2016/7/18 15:20:54|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2016/7/18|ReportField=CurrentTime~15:20:48|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\ZINK\Desktop\BB8_Control_PCB\MainControl.SchDoc|ReportField=DocumentName~MainControl.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2016/7/15|ReportField=Organization~|ReportField=ProjectName~BB8_Control.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~BB8_Control.PrjPCB|ReportField=DataSourceFullPath~C:\Users\ZINK\Desktop\BB8_Control_PCB\BB8_Control.PrjPCB
+220uF||C1, C3|CC6.56.5|CAP|2
+104||C2, C4, C6, C8, C9, C10, C11, C12, C13, C14, C15|0603P|C|11
+10uF||C5, C7|0603P|C|2
+1N5824||D1|DIODE_SOP|D|1
+Charging Port||DC_IN1|DC10B|POW|1
+LED1|Typical RED, GREEN, YELLOW, AMBER GaAs LED|DS1, DS2, DS3|SMDLED|LE, LED2|3
+BUTTON||K1|BTN8.5*8.5|BUTTON|1
+33uH||L1|CD54|L|1
+DC 7.4V|Header, 2-Pin|P1|XH2.54-2P|Header-2|1
+Header 4|Header, 4-Pin|P2, P4|HDR1X4|Header 4|2
+Header 10|Header, 10-Pin|P3, P6|HDR1X10|Header 10|2
+Header 6|Header, 6-Pin|P5|HDR1X6|Header 6|1
+Header 3|Header, 3-Pin|P7|HDR1X3|Header 3|1
+0R||R1, R3|0603P|R|2
+1K||R2, R8, R9, R10, R11, R19, R20, R21|0603P|R|8
+510R||R4, R7|0603P|R|2
+47K||R5, R6|0603P|R|2
+4.7K||R12, R13, R14, R15, R16, R17, R18|0603P|R|7
+KEY_M||RESET1, TRIG1|KEY_M|K|2
+to L298N||RS1|HEAD2L-0.8|H|1
+LM2596|LM2596 - 5.0|U1|TO-263-5|LM2596|1
+AMS1117-3.3|AMS1117-3.3|U2|SOT223-4L|AMS1117|1
+MSP430G2x53|MSP430G2x53 microcontrollers|U3|MSP430G2x53|MSP430G2x53|1
+TLP521-4|4 x 4-Pin Phototransistor Optocoupler|U4, U5|DIP16|TLP521-4|2
+32.768KHz|Crystal Oscillator|Y1|XTAL32|XT|1

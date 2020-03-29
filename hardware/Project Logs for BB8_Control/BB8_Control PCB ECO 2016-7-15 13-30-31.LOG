@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=P1.0 Pin=P3-2
+Removed Pin From Net: NetName=P1.1 Pin=P3-3
+Removed Pin From Net: NetName=P1.2 Pin=P3-4
+Removed Pin From Net: NetName=P1.3 Pin=P3-5
+Removed Pin From Net: NetName=P1.4 Pin=P3-6
+Removed Pin From Net: NetName=P1.5 Pin=P3-7
+Removed Pin From Net: NetName=P2.0 Pin=P3-8
+Removed Pin From Net: NetName=P2.1 Pin=P3-9
+Removed Pin From Net: NetName=P2.3 Pin=P6-1
+Removed Pin From Net: NetName=P2.5 Pin=P6-3
+Removed Pin From Net: NetName=P1.6 Pin=P6-4
+Removed Pin From Net: NetName=P1.7 Pin=P6-5
+Removed Pin From Net: NetName=RESET Pin=P6-6
+Removed Pin From Net: NetName=TEST Pin=P6-7
+Removed Pin From Net: NetName=P2.7 Pin=P6-8
+Removed Pin From Net: NetName=P2.6 Pin=P6-9
