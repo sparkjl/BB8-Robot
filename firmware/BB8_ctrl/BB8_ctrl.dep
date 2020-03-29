@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>3300349405</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\config.c</file>
+      <file>$PROJ_DIR$\MPU6050\eMPL\inv_mpu.c</file>
+      <file>$PROJ_DIR$\IIC.c</file>
+      <file>$PROJ_DIR$\Timer_A.c</file>
+      <file>$PROJ_DIR$\MPU6050\ANO_Tech.c</file>
+      <file>$PROJ_DIR$\MPU6050\mpu6050.c</file>
+      <file>$PROJ_DIR$\MPU6050\eMPL\inv_mpu_dmp_motion_driver.c</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.r43</file>
+      <file>$PROJ_DIR$\MPU6050\eMPL\inv_mpu_dmp_motion_driver.h</file>
+      <file>$PROJ_DIR$\config.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Timer_A.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\config.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\ANO_Tech.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\string.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\BB8_ctrl.d43</file>
+      <file>$PROJ_DIR$\MPU6050\eMPL\dmpmap.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdlib.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xtgmath.h</file>
+      <file>$PROJ_DIR$\MPU6050\eMPL\dmpKey.h</file>
+      <file>$PROJ_DIR$\MPU6050\eMPL\inv_mpu.h</file>
+      <file>$PROJ_DIR$\MPU6050\ANO_Tech.h</file>
+      <file>$TOOLKIT_DIR$\inc\io430g2553.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdio.h</file>
+      <file>$TOOLKIT_DIR$\config\lnk430G2553.xcl</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\inv_mpu_dmp_motion_driver.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\mpu6050.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\inv_mpu.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\BB8_ctrl.pbd</file>
+      <file>$PROJ_DIR$\USCI.c</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\config.r43</file>
+      <file>$PROJ_DIR$\IIC.h</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdint.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\math.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ymath.h</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Timer_A.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\IIC.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\io430.h</file>
+      <file>$PROJ_DIR$\MPU6050\mpu6050.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\inv_mpu_dmp_motion_driver.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\IIC.pbi</file>
+      <file>$PROJ_DIR$\USCI.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\USCI.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Timer_A.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ANO_Tech.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ystdio.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\USCI.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\mpu6050.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\inv_mpu.r43</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\config.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 34</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 10 45 24 41 25 7 44 27 33 19 12 51 39 54</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10 45 24 41 25 7 44 27 19 12 51 39 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MPU6050\eMPL\inv_mpu.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 59</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 25 7 44 27 33 19 12 51 39 54 37 18 15 38 40 20 22 9 10 45 24 41 46 35</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25 7 44 27 19 12 51 39 54 37 18 15 38 40 20 22 9 10 45 24 41 46 35</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\IIC.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 43</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 48</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 35 45 24 41 10 25 7 44 27 33 19 12 51 39 54</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35 45 24 41 10 25 7 44 27 19 12 51 39 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Timer_A.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 42</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 52 45 24 41 10 25 7 44 27 33 19 12 51 39 54</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52 45 24 41 10 25 7 44 27 19 12 51 39 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MPU6050\ANO_Tech.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 14</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 23 10 45 24 41 25 7 44 27 33 19 12 51 39 54 49 15</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23 10 45 24 41 25 7 44 27 19 12 51 39 54 49 15</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MPU6050\mpu6050.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 29</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 46 35 45 24 41 10 25 7 44 27 33 19 12 51 39 54</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46 35 45 24 41 10 25 7 44 27 19 12 51 39 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\MPU6050\eMPL\inv_mpu_dmp_motion_driver.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 47</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 25 7 44 27 33 19 12 51 39 54 37 18 15 38 40 20 22 9 21 17 10 45 24 41</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25 7 44 27 19 12 51 39 54 37 18 15 38 40 20 22 9 21 17 10 45 24 41</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 16</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\BB8_ctrl.d43</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 26 14 43 42 56 34 59 47 8 29 55</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\BB8_ctrl.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 53 48 11 50 13 30 28 58 57</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\USCI.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 56</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 50</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 49 45 24 41</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 49 45 24 41</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 8</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 58</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 45 24 41 10 25 7 44 27 33 19 12 51 39 54 49 52</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 45 24 41 10 25 7 44 27 19 12 51 39 54 49 52</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
